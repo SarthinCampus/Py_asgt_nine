@@ -7,9 +7,9 @@ Tasks:
 2. Ask for an operator (+, -, *, /).
 3. Use if-else or match to perform the operation.
 4. Print the result in this format:
-   Result: [value]
+   "Result: [value]"
 5. If the operation is division and the second number is 0, print exactly:
-   Error: Cannot divide by zero
+   "Error: Cannot divide by zero"
 
 Turn in:
 - File: calculator.py
